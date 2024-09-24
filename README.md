@@ -17,8 +17,6 @@ volatility2 -f <path_to_memory_dump> --profile=<profile_name> --plugins=<path_to
 
 You need to provide the second discord process.
 
-![Discords](https://github.com/user-attachments/assets/893f8cc0-52ef-475e-bdcb-c45e376ccbe4)
-
 ## Android android_discord
 Tested on Linux version 4.14.175-g6f3fc9538452.
 
